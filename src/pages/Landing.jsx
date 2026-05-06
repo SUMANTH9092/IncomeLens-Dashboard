@@ -31,7 +31,7 @@ const Landing = () => {
         }
     ];
 
-    const teamMembers = ["Anirudh", "Samruddhi", "Tejaswi", "Riya", "Phalguni"];
+    const teamMembers = ["Anirudh", "Samruddhi", "Tejaswi", "Sumanth", "Phalguni"];
 
     return (
         <div className="min-h-screen bg-background text-text-primary overflow-hidden">
